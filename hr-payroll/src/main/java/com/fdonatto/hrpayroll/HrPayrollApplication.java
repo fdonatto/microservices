@@ -1,4 +1,4 @@
-package com.fdonatt.hrpayroll;
+package com.fdonatto.hrpayroll;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
