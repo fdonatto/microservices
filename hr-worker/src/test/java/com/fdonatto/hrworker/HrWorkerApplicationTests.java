@@ -1,10 +1,10 @@
-package com.fdonatt.hrpayroll;
+package com.fdonatto.hrworker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrPayrollApplicationTests {
+class HrWorkerApplicationTests {
 
 	@Test
 	void contextLoads() {
